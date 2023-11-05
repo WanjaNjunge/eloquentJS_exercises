@@ -14,7 +14,13 @@ console.log(abc.length);
 // → 3
 */
 
-//for(let i = 1; i < 8; i++) 
+for(let i = '#'; i.length < 8; i += '#') {
+        
+        console.log(i);
+    }
+
+
+
 
 
 
